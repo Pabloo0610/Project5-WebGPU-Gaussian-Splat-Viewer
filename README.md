@@ -8,7 +8,7 @@
 
 ### Live Demo
 
-[![](images/gaussian_screenshot.png)](https://pabloo0610.github.io/Project4-WebGPU-Forward-Plus-and-Clustered-Deferred/)
+[![](images/gaussian_screenshot.png)](https://pabloo0610.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/)
 
 ### Demo Video/GIF
 
