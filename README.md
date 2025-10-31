@@ -12,7 +12,11 @@
 
 ### Demo Video/GIF
 
-![](images/gaussian_splatting.mp4)
+![](images/gaussian_splatting.gif)
+<!-- <video width="640" height="360" controls>
+  <source src="images/gaussian_splatting.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> -->
 
 ## Overview
 
